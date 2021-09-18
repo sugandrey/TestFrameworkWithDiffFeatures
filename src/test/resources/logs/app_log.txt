@@ -1,0 +1,6 @@
+INFO    2021-09-17 18:20:38,115 [main] com.basefortestcases.TestBase  - Appium server started
+INFO    2021-09-17 18:20:38,115 [main] com.basefortestcases.TestBase  - android_flipboard.properties properties file is loaded
+INFO    2021-09-17 18:20:38,115 [main] com.basefortestcases.TestBase  - Cababililies are downloaded
+INFO    2021-09-17 18:20:46,378 [main] com.basefortestcases.TestBase  - Driver is downloaded
+INFO    2021-09-17 18:21:10,209 [main] com.basefortestcases.TestBase  - Test case execution completed
+INFO    2021-09-17 18:21:10,264 [main] com.basefortestcases.TestBase  - Appium server stopped!!!
